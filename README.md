@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RasmusArentoft
-- 👀 I’m interested in geophysics, climate change and games.  
+- 👀 I’m interested in geophysics, climate change, machine learning and games. 
+- 🎓 I'm currently studying Physics at UCPH. 
 - 🌱 I’m currently learning Python but I am interested in learning other languages as well.
 
 <!---
